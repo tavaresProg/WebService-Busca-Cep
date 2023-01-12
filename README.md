@@ -15,5 +15,5 @@ para buscar um endereço 📪
 
 
 ## 📸 Screenshots
-<img src="" width="50%">
-<img src="" width ="50%">
+<img src="https://github.com/tavaresProg/buscador-de-endereco/blob/main/screenshot%201.png" width="50%">
+<img src="https://github.com/tavaresProg/buscador-de-endereco/blob/main/screenshot%202.png" width ="50%">
