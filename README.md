@@ -1,4 +1,19 @@
-# WebService-Busca-Cep
+<div align="center">
+  <h1>Buscador de Endereço</h1>
+  <p> Desenvolvido por Arthur Tavares ☕</p>
+</div>
 
-Aplicativo feito com interface gráfica Swing construido através do Java Window Builder que utiliza o Web Service do site https://www.republicavirtual.com.br/
-para busca automática de endereço utilizando um CEP informado.
+## 📑 Descrição
+App que consome o webservise do site:  https://www.republicavirtual.com.br/ </br>
+para buscar um endereço 📪
+
+## 🛠️ Tecnologia utilizada
+- Java 18
+
+## ⚙️ Funcionalidade:
+- GET de endereço do republicavirtual
+
+
+## 📸 Screenshots
+<img src="" width="50%">
+<img src="" width ="50%">
