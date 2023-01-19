@@ -3,17 +3,17 @@
   <p> Desenvolvido por Arthur Tavares ☕</p>
 </div>
 
-## 📑 Descrição
-App que consome o webservise do site:  https://www.republicavirtual.com.br/ </br>
-para buscar um endereço 📪
+## Descrição
+Programa que consome o webservise do site:  https://www.republicavirtual.com.br/ </br>
+para buscar um endereço 
 
-## 🛠️ Tecnologia utilizada
+## Tecnologia utilizada
 - Java 18
 
-## ⚙️ Funcionalidade:
+## Funcionalidade:
 - GET de endereço do republicavirtual
 
 
-## 📸 Screenshots
+## Screenshots
 <img src="https://github.com/tavaresProg/buscador-de-endereco/blob/main/screenshot%201.png" width="50%">
 <img src="https://github.com/tavaresProg/buscador-de-endereco/blob/main/screenshot%202.png" width ="50%">
